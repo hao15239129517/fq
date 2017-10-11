@@ -10,4 +10,6 @@
 ###### GFWList地址：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 ###### GFWList PAC地址：https://softs.fun/Other/pac.txt  （右键 链接另存为…）
 ###### 备用下载 PAC地址：https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/other/pac.txt
+### vps服务器
+##### 搬瓦工 https://bandwagonhost.com/index.php
 
