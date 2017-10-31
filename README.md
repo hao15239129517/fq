@@ -12,4 +12,5 @@
 ###### 备用下载 PAC地址：https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/other/pac.txt
 ### vps服务器
 ##### 搬瓦工 https://bandwagonhost.com/index.php
+##### https://www.vultr.com/
 
