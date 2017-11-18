@@ -5,6 +5,7 @@
 ##### 萤火虫 https://github.com/yinghuocho/firefly-proxy
 ### Shadowsocks账号和教程
 ###### https://doub.io/
+###### https://go.ishadowx.net/index_cn.html
 #### Shadowsocks需要手动更新pac.txt
 ###### GFWList项目：https://github.com/gfwlist/gfwlist
 ###### GFWList地址：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
