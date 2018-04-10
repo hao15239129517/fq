@@ -4,7 +4,7 @@
 ##### Browsec VPN chrome浏览器的插件
 ##### 萤火虫 https://github.com/yinghuocho/firefly-proxy
 ## Shadowsocks账号和教程
-###### https://doub.io/   https://doub.bid 
+###### https://doub.io/   https://doub.ws/sszhfx/ 
 ###### https://go.ishadowx.net/index_cn.html
 #### Shadowsocks需要手动更新pac.txt
 ###### GFWList项目：https://github.com/gfwlist/gfwlist
