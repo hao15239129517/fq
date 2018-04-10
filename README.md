@@ -6,6 +6,7 @@
 ## Shadowsocks账号和教程
 ###### https://doub.io/   https://doub.ws/sszhfx/ 
 ###### https://go.ishadowx.net/index_cn.html
+###### https://get.freess.today/  下载各平台ss客户端
 #### Shadowsocks需要手动更新pac.txt
 ###### GFWList项目：https://github.com/gfwlist/gfwlist
 ###### GFWList地址：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
