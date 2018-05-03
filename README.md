@@ -18,7 +18,7 @@
 ##### 搬瓦工     https://bandwagonhost.com/index.php
 ##### vultr      https://www.vultr.com/
 ##### virmach    https://billing.virmach.com/cart.php?gid=1
-##vps ss搭建教程
+## vps ss搭建教程
 ##### http://www.cnblogs.com/zhaoyihao/p/8252566.html
 
 
