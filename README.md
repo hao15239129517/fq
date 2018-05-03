@@ -4,10 +4,10 @@
 ##### Browsec VPN chrome浏览器的插件
 ##### 萤火虫 https://github.com/yinghuocho/firefly-proxy
 ## Shadowsocks账号和教程
-###### https://doub.io/   https://doub.ws/sszhfx/ 
+###### https://doub.io/(需翻墙)   https://newdoub.com/（最新镜像域名）
 ###### https://go.ishadowx.net/index_cn.html
 ###### https://get.freess.today/  下载各平台ss客户端
-#### Shadowsocks需要手动更新pac.txt
+#### ShadowsocksR 手动更新pac.txt
 ###### GFWList项目：https://github.com/gfwlist/gfwlist
 ###### GFWList地址：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 ###### GFWList PAC地址：https://softs.fun/Other/pac.txt  （右键 链接另存为…）
@@ -16,7 +16,7 @@
 ##### 搬瓦工     https://bandwagonhost.com/index.php
 ##### vultr      https://www.vultr.com/
 ##### virmach    https://billing.virmach.com/cart.php?gid=1
-## ss搭建教程
+##vps ss搭建教程
 ##### http://www.cnblogs.com/zhaoyihao/p/8252566.html
 
 
