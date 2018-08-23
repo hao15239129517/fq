@@ -7,8 +7,7 @@
 ##### 萤火虫 https://github.com/yinghuocho/firefly-proxy
 ## Shadowsocks账号和教程
 ###### https://doub.io/  (需翻墙)   不翻墙，逗比云访问办法，在hosts文件中添加  104.28.2.6 doub.io
-###### https://go.ishadowx.net/index_cn.html
-###### https://get.freess.today/  下载各平台ss客户端
+###### https://shadowsocks.org/en/download/clients.html  下载各平台ss客户端
 #### ShadowsocksR 手动更新pac.txt
 ###### GFWList项目：https://github.com/gfwlist/gfwlist
 ###### GFWList地址：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
