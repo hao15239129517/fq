@@ -8,6 +8,11 @@
 ## Shadowsocks账号和教程
 ###### https://doub.io/  (需翻墙)   不翻墙，逗比云访问办法，在hosts文件中添加  104.28.2.6 doub.io
 ###### https://shadowsocks.org/en/download/clients.html  下载各平台ss客户端
+## Shadowsocks各平台GitHub地址
+###### Windows版  https://github.com/shadowsocksr-backup/shadowsocksr-csharp
+###### Android版  https://github.com/shadowsocksrr/shadowsocksr-android
+###### Mac版  https://github.com/yangfeicheung/Shadowsocks-X
+###### iOS版  https://github.com/shadowsocks/shadowsocks-iOS
 #### ShadowsocksR 手动更新pac.txt
 ###### GFWList项目：https://github.com/gfwlist/gfwlist
 ###### GFWList地址：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
