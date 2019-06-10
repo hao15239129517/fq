@@ -27,7 +27,7 @@
 ## greatfire官网
 ##### https://zh.greatfire.org/
 ##  第三方平台推荐：梯云
-#### 挺便宜的6元/10G/30天，个人用已经满足了。自己搭建的最便宜的vps也要1美元。推广注册链接 https://tiyun6.club/auth/register?aff=30062
+#### 挺便宜的6元/10G/30天，个人用已经满足了。自己搭建的最便宜的vps也要1美元。推广注册链接，双方都返利喔。 https://tiyun7.club/auth/register?aff=30062
 ##### 梯云域名&防失联
 ##### 主站首页 tiyun.cc
 ##### 教程首页 wiki.tiyun6.club
