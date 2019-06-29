@@ -22,6 +22,7 @@
 ##### 搬瓦工     https://bandwagonhost.com/index.php   https://bwh1.net/
 ##### vultr      https://www.vultr.com/
 ##### virmach    https://billing.virmach.com/cart.php?gid=1
+##### hostwinds   https://www.hostwinds.com
 ## vps ss搭建教程
 ##### http://www.cnblogs.com/zhaoyihao/p/8252566.html
 ## greatfire官网
