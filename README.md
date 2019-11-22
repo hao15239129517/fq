@@ -39,5 +39,5 @@
 ##### tiyun.org，tiyun.tk，tiyunti.com，tiyun8.com
 ##### 防失联 QQ群:728906076 微信号:tiyunme 
 ##  第三方平台推荐 wikicc云
-####  https://wikicc.net/price.html  或  https://vvoo.in/  访问不了？看这里：https://vvooyun.github.io/  邀请返利链接(双方都可以返利)：https://vvoo.in/auth/register?code=7qC5
+####  https://wikicc.net/price.html  或  https://vvoo.in/  访问不了？看这里：https://vvooyun.github.io/  邀请返利链接(双方都可以返利)：https://vvoocloud.com/auth/register?code=7qC5
 ####  https://www.baacloud35.com/
