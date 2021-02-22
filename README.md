@@ -27,17 +27,8 @@
 ##### http://www.cnblogs.com/zhaoyihao/p/8252566.html
 ## greatfire官网
 ##### https://zh.greatfire.org/
-##  第三方平台推荐：梯云(网站已挂，节点还正常)
-#### 挺便宜的6元/10G/30天，个人用已经满足了。自己搭建的最便宜的vps也要1美元。推广注册链接，双方都返利喔。 https://tiyun7.club/auth/register?aff=30062
-##### 梯云域名&防失联
-##### 主站首页 tiyun.cc
-##### 教程首页 wiki.tiyun6.club
-##### 用户中心 tiyun6.club
-##### 若无法访问,尝试以下域名访问梯云主站：
-##### 备用A网址梯云.com（请开vpn就能找到我们,此域名会永久保留）
-##### 备用B网址如下（目前都跳转到tiyun6.club）  
-##### tiyun.org，tiyun.tk，tiyunti.com，tiyun8.com
-##### 防失联 QQ群:728906076 微信号:tiyunme 
-##  第三方平台推荐 wikicc云
-####  https://wikicc.net/price.html  或  https://vvoo.in/  访问不了？看这里：https://vocloud.net/  邀请返利链接(双方都可以返利)：https://vocloud.in/auth/register?code=7qC5
+##  第三方平台推荐：梯云  https://tyunti.github.io/
+#### 推广注册链接，双方都返利喔: https://tyt1.xyz/auth/register?code=vVmM
+##  第三方平台推荐 vo云（已挂）
+#### https://vocloud.net/  邀请返利链接(双方都可以返利)：https://vocloud.in/auth/register?code=7qC5
 ####  https://www.baacloud35.com/
