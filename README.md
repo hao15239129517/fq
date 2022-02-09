@@ -32,5 +32,5 @@
 ##  第三方平台推荐 vo云（已挂）
 #### https://vocloud.net/  邀请返利链接(双方都可以返利)：https://vocloud.in/auth/register?code=7qC5
 ####  https://www.baacloud35.com/
-####  蜜桃云 https://mitaocloud.net/   邀请返利链接（双方都可以返利）： https://mitaocloud8.xyz/auth/register?code=QEzY
+####  蜜桃云 https://mitaocloud.net/  https://xixi.ph 邀请返利链接（双方都可以返利）：https://xixi0001.com/auth/register?code=oWHl
 ####  其他云  https://uinio.net/
