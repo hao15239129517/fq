@@ -1,3 +1,5 @@
+# 最近在用的
+##### https://cloudfisher.net/web/#/login?code=3Ixqngcn    最低套餐9元/月，同时也可以按流量购买，工作使用可以按流量买
 # 翻墙工具
 ##### http://www.freefq.com/
 ##### 蓝灯 https://github.com/getlantern/forum  （流传的破解版2.2.5十九大已不能用了）
