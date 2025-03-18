@@ -30,6 +30,7 @@
 ## greatfire官网
 ##### https://zh.greatfire.org/
 ##  第三方平台推荐：梯云  https://tyunti.github.io/
+##  https://cloudfisher.net/web/#/login?code=3Ixqngcn  
 #### 推广注册链接，双方都返利喔: https://tyt1.xyz/auth/register?code=vVmM
 ##  第三方平台推荐 vo云（已挂）
 #### https://vocloud.net/  邀请返利链接(双方都可以返利)：https://vocloud.in/auth/register?code=7qC5
